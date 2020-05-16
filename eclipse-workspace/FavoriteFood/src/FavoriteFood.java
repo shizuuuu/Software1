@@ -1,8 +1,9 @@
 
 public class FavoriteFood {
 	public static void main(String[] args) {
-		System.out.print("ç§ã®å¥½ããªé£Ÿã¹ç‰©ã¯ãƒ¡ãƒ­ãƒ³ã§ã™ã€‚");
-		System.out.println("ãã®ç†ç”±ã¯ã€ç”˜ãã¦ãŠã„ã—ã„ã‹ã‚‰ã§ã™ã€‚");
-		System.out.println("ãƒ¡ãƒ­ãƒ³ã¯ã‚¦ãƒªç§‘ã®1å¹´ç”Ÿè‰æœ¬æ¤ç‰©ã§ã‚ã‚‹ï¼(Wikipediaèª¿ã¹)-g17936")
+		System.out.print("„‚ÌD‚«‚ÈH‚×•¨‚Íƒƒƒ“‚Å‚·B");
+		System.out.println("‚»‚Ì——R‚ÍAŠÃ‚­‚Ä‚¨‚¢‚µ‚¢‚©‚ç‚Å‚·B");
+		System.out.println("“Á‚ÉA‰Ä‚ÉH‚×‚éƒƒƒ“‚ÌƒpƒtƒF‚ª‚¨‚¢‚µ‚¢‚Å‚·B");
+		System.out.println("ƒƒƒ“‚ÍƒEƒŠ‰È‚Ì1”N¶‘–{A•¨‚Å‚ ‚éD(Wikipedia’²‚×)-g17936");
 	}
 }
